@@ -62,7 +62,7 @@ function clientCreate() {
 
 	
 
-	client.login("NTU0NzQwODkyNTc0MDIzNjgx.XNXqMQ.snMThcsiDsrCTfL6MxRCs66g6mo")
+	client.login(process.env.token);
 
 	
 
